@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
+
+  <title>Lesson 1.6: Finding text on a web page (Text)</title>
+</head>
+
+<body style=
+"max-width:468pt;background-color:#ffffff;padding:72pt 72pt 72pt 72pt">
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:14pt;font-weight:bold">Lesson 1.6: Finding text on a
+  web page</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="color:#1155cc;font-size:12pt;text-decoration:underline"><a href=
+  "../../slides/Lesson1.6.pdf" style=
+  "color:inherit;text-decoration:inherit">Access Lesson 1.6 slides
+  here</a></span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt;font-weight:bold">Contents:</span></p>
+
+  <ol start="1" style="list-style-type:disc;margin:0;padding:0">
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Using Control-F/Command-F to
+    find a word on the page</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Locating the
+    &ldquo;find&rdquo; box in different browsers</span></li>
+  </ol>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Have you ever needed</span> <span style=
+  "font-size:12pt">to locate words on a page efficiently? Suppose you want to
+  find your time in the local 8K race. It&rsquo;s easy to find the page that
+  contains the information, but what do you do then? &nbsp;</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">One option is the Find feature of your web
+  browser, using Control-F (Command-F on Mac), to find a piece of text on a web
+  page. Unlike searching, which looks across a number of web pages to find
+  which of the pages contain certain words,</span> <span style=
+  "font-size:12pt">Control-F/Command-F l</span><span style=
+  "font-size:12pt">ooks within the text of a single page to find precisely
+  where that word is located.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">You can try out Control-F/Command-F on any web
+  page. For example, if you want to know where Mumbai, India ranks among the
+  most populous cities in the world, you might search for [</span><span style=
+  "color:#1155cc;font-size:12pt;text-decoration:underline"><a href=
+  "https://www.google.com/search?sugexp=chrome,mod=11&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=most+populous+cities+world"
+  style="color:inherit;text-decoration:inherit">most populous cities
+  world</a></span><span style="font-size:12pt">] and pick one of the pages that
+  come up. Next, your task is to locate the word</span> <span style=
+  "font-style:italic;font-size:12pt">Mumbai</span><span style=
+  "font-size:12pt">&nbsp;on the page.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Find the Control key (Command key on Mac). While
+  holding that key down, also press the</span> <span style=
+  "font-style:italic;font-size:12pt">F</span><span style=
+  "font-size:12pt">&nbsp;key. &nbsp;A</span> <span style=
+  "font-style:italic;font-size:12pt">find</span><span style=
+  "font-size:12pt">&nbsp;box will open, and you can enter the word</span>
+  <span style="font-style:italic;font-size:12pt">Mumbai</span><span style=
+  "font-size:12pt">&nbsp;to locate it on the page.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Where exactly your find box opens on the screen
+  varies, depending on which browser you use:</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <ol start="1" style="list-style-type:disc;margin:0;padding:0">
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Firefox:</span> <span style=
+    "font-size:12pt">B</span><span style="font-size:12pt">ottom left corner of
+    the screen. You can type in the word you want to find and use the</span>
+    <span style="font-style:italic;font-size:12pt">next</span><span style=
+    "font-size:12pt">&nbsp;and</span> <span style=
+    "font-style:italic;font-size:12pt">previous</span> <span style=
+    "font-size:12pt">buttons to go forward or backward in the document. You can
+    click on the button that says "highlight all" and that puts a yellow
+    background on all instances of that text anywhere in the document.
+    &nbsp;</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Safari:</span> <span style=
+    "font-size:12pt">U</span><span style="font-size:12pt">pper right corner of
+    the screen. If you type a word on this page, you can see how many matches
+    there are, and you can also use forward and back buttons. You can use the
+    "Enter" ("return" on Mac) key to go forward to the next search as well.
+    &nbsp;</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Internet
+    Explorer:</span><span style="font-size:12pt">&nbsp;In IE 9, the box is in
+    the upper left corner.</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Chrome:</span> <span style=
+    "font-size:12pt">U</span><span style="font-size:12pt">pper right corner of
+    the screen. You can see how many instances of that word there are.
+    &nbsp;</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">iPad
+    (Safari):</span><span style="font-size:12pt">&nbsp;When you are viewing a
+    web page, click on the search box in the upper right corner of the screen.
+    The find box appears on the top right side of the on-screen
+    keyboard.</span></li>
+
+    <li style=
+    "margin-right:0;color:#000000;direction:ltr;font-size:11pt;margin-left:36pt;margin-bottom:0;font-family:&quot;Arial&quot;;margin-top:0;padding:0">
+    <span style="font-size:12pt;font-weight:bold">Android
+    tablet:</span><span style="font-size:12pt">&nbsp;</span><span style=
+    "font-size:12pt;background-color:#ffffff">Select menu in top right, then
+    select "Find on page" in the menu.</span></li>
+  </ol>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">This feature allows you to review a long
+  document quickly. &nbsp;</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">When you use the Find feature, consider what
+  word to use. For example, assume you want to know which games Scotland played
+  in cricket in the month of August 2010. If you have a</span> <span style=
+  "color:#1155cc;font-size:12pt;text-decoration:underline"><a href=
+  "http://en.wikipedia.org/wiki/August_2010_in_sports" style=
+  "color:inherit;text-decoration:inherit">list of sporting events in August
+  2010</a></span><span style="font-size:12pt">&nbsp;and use the Find feature to
+  look for [scotland], you would need to scroll through 26 occurrences of the
+  term to find the ones related to cricket. Alternatively, you might choose to
+  look for the word [cricket] on the page. There are 29 occurrences of
+  cricket,</span> <span style="font-size:12pt">but since the word "cricket" is
+  always at the head of each section, it might be a faster process.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Please note that at this time, there is no easy
+  way to use Control-F/ Command-F to find two words near each other if they are
+  not adjacent. &nbsp;</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Why do you need to know this? The big reason is
+  that it can really speed up finding what you want. In our studies we've found
+  that it cuts the time people need to locate information in regular web search
+  by about 12%. When we carried out this study, we found that only 10% of all
+  searchers knew about using Control-F/Command-F.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:12pt">Please use the activity to try out the Find
+  feature for yourself.</span></p>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+  <hr>
+
+  <p style=
+  "height:11pt;color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  </p>
+
+  <p style=
+  "color:#000000;direction:ltr;font-size:11pt;margin:0;font-family:&quot;Arial&quot;;padding:0">
+  <span style="font-size:10pt">Power Searching with Google &copy; 2012 Google,
+  Inc.</span></p>
+</body>
+</html>

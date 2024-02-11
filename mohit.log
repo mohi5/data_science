@@ -1,0 +1,99 @@
+INFO:root:this is information
+WARNING:root:this is warning
+2024-02-07 20:24:06,450 this is information
+2024-02-07 20:24:06,451 this is warning
+2024-02-07 20:24:30,095 
+2024-02-07 20:24:30,095 
+2024-02-07 20:24:37,956 this is information
+2024-02-07 20:24:37,956 this is warning
+2024-02-07 20:26:02,258 this is information
+2024-02-07 20:26:02,258 this is warning
+2024-02-07 20:39:23,371 this is information
+2024-02-07 20:39:23,371 this is warning
+2024-02-07 20:44:36,849 this is information
+2024-02-07 20:44:36,850 this is warning
+2024-02-07 20:44:36,850 here we are iterating value over the local variable
+2024-02-07 20:44:36,850 here we are iterating value over the local variable
+2024-02-07 20:44:36,850 here we are iterating value over the local variable
+2024-02-07 20:44:36,853 here we are iterating value over the local variable
+2024-02-07 20:44:36,853 here we are iterating value over the local variable
+2024-02-07 20:44:36,853 here we are iterating value over the local variable
+2024-02-07 20:44:36,853 here we are inside the if statement and trying to check the type of list
+2024-02-07 20:44:36,853 here we are inside the for loop inside for loop
+2024-02-07 20:44:36,853 here we are adding the value inside l1 list
+2024-02-07 20:44:36,853 here we are inside the for loop inside for loop
+2024-02-07 20:44:36,854 here we are adding the value inside l1 list
+2024-02-07 20:44:36,854 here we are inside the for loop inside for loop
+2024-02-07 20:44:36,854 here we are adding the value inside l1 list
+2024-02-07 20:44:36,854 here we are iterating value over the local variable
+2024-02-07 20:44:36,854 here we are iterating value over the local variable
+2024-02-07 20:52:06,109 this is information
+2024-02-07 20:52:06,110 this is warning
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are iterating value over the local variable
+2024-02-07 20:52:06,110 here we are inside the if statement and trying to check the type of list
+2024-02-07 20:52:06,110 here we are inside the for loop inside for loop
+2024-02-07 20:52:06,110 here we are adding the value inside l1 list
+2024-02-07 20:52:06,111 here we are inside the for loop inside for loop
+2024-02-07 20:52:06,111 here we are adding the value inside l1 list
+2024-02-07 20:52:06,111 here we are inside the for loop inside for loop
+2024-02-07 20:52:06,111 here we are adding the value inside l1 list
+2024-02-07 20:52:06,111 here we are iterating value over the local variable
+2024-02-07 20:52:06,111 here we are iterating value over the local variable
+2024-02-07 20:53:50,914 this is information
+2024-02-07 20:53:50,915 this is warning
+2024-02-07 20:53:50,915 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,915 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,915 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,915 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,916 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,916 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,916 here we are inside the if statement and trying to check the type of list
+2024-02-07 20:53:50,916 here we are inside the for loop inside for loop
+2024-02-07 20:53:50,916 here we are adding the value inside l1 list
+2024-02-07 20:53:50,916 here we are inside the for loop inside for loop
+2024-02-07 20:53:50,916 here we are adding the value inside l1 list
+2024-02-07 20:53:50,916 here we are inside the for loop inside for loop
+2024-02-07 20:53:50,916 here we are adding the value inside l1 list
+2024-02-07 20:53:50,916 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:53:50,916 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,860 this is information
+2024-02-07 20:59:03,860 this is warning
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,861 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,862 here we are inside the if statement and trying to check the type of list
+2024-02-07 20:59:03,862 here we are inside the for loop inside for loop
+2024-02-07 20:59:03,862 here we are adding the value inside l1 list
+2024-02-07 20:59:03,862 here we are inside the for loop inside for loop
+2024-02-07 20:59:03,862 here we are adding the value inside l1 list
+2024-02-07 20:59:03,862 here we are inside the for loop inside for loop
+2024-02-07 20:59:03,862 here we are adding the value inside l1 list
+2024-02-07 20:59:03,862 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,862 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:03,863 the final result of int is [1, 2, 33, 43, 45, 8, 9, 10], and str is [1, 2, 33, 43, 45, 8, 9, 10]
+2024-02-07 20:59:37,664 this is information
+2024-02-07 20:59:37,664 this is warning
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,664 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,665 here we are inside the if statement and trying to check the type of list
+2024-02-07 20:59:37,665 here we are inside the for loop inside for loop
+2024-02-07 20:59:37,665 here we are adding the value inside l1 list
+2024-02-07 20:59:37,665 here we are inside the for loop inside for loop
+2024-02-07 20:59:37,665 here we are adding the value inside l1 list
+2024-02-07 20:59:37,665 here we are inside the for loop inside for loop
+2024-02-07 20:59:37,665 here we are adding the value inside l1 list
+2024-02-07 20:59:37,665 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,665 here we are iterating value over the local variable[1, 2, 33, 43, 45, [8, 9, 10], 'mohit', 'sudh']
+2024-02-07 20:59:37,666 the final result of int is [1, 2, 33, 43, 45, 8, 9, 10], and str is [1, 2, 33, 43, 45, 8, 9, 10]
